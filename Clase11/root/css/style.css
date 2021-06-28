@@ -1,0 +1,17 @@
+header {
+  display:flex;
+  background-color: #222222;
+}
+
+.logo {
+  display:flex;
+}
+
+.container {
+  background-color: #f3f3f3;
+}
+
+footer{
+  display:flex;
+  background-color: #222222; 
+}

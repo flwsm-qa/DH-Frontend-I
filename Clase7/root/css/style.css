@@ -1,0 +1,47 @@
+
+body {
+    margin: auto;
+  
+    width: 70%;
+}
+
+section {
+    width: 90%;
+    background-color: #d6d6d6;
+    margin: auto;
+}
+
+.title {
+    background-color: #21266D;
+    text-transform: lowercase;
+    color: #d6d6d6;
+    letter-spacing: -2px;
+    font-style:italic;
+    font-size: 55px;
+    text-align: center;
+    padding: 15px;
+    font-family: Georgia;
+}
+
+.section-title {
+    background-color: #393b61;
+    text-transform:uppercase;
+    color: #d6d6d6;
+    letter-spacing: 3px;
+    font-size: 20px;
+    padding: 15px;
+    font-family: Georgia; 
+}
+
+.bullet {
+    display: flex;
+    flex-direction: row;
+}
+
+.year {
+    position: relative;
+}
+
+.text {
+    position: relative;
+}
